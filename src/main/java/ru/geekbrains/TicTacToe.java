@@ -3,6 +3,7 @@ package ru.geekbrains;
 import java.util.Random;
 import java.util.Scanner;
 
+//Крестики-нолики 5х5
 public class TicTacToe {
     public static Scanner scanner = new Scanner(System.in);
     public static char[][] map;
